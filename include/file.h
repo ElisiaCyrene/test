@@ -1,7 +1,9 @@
 #pragma once
-#ifndef WRITEDATA_H
-#define WRITEDATA_H
+#ifndef LOG_H
+#define LOG_H
 
-int writeData();
+#include "data.h"
+
+int writeBiteData(LList  *);
 
 #endif

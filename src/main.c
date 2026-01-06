@@ -1,5 +1,6 @@
-#include <stido.h>
+#include <stdio.h>
+#include "log.h"
 int main(){
-	printf("Hello World");
+	
 	return 0;
 }
